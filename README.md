@@ -1,4 +1,4 @@
-# Centos 7 with WHM/cPanel
+# Centos 8 with WHM/cPanel
 
 cPanel is one of the most recognized hosting management tools in the world and it delivers the most complete functionality combined with unparalleled localization.
 MIRhosting is now pleased to offer our unique and innovative cPanel image for everybody's evaluation and experiments. Our cPanel docker can now be deployed with one click within our cloud platform. If you will decide to use MIRhsoting's cloud platform your license will be activated instantly and you will be billed hourly for the actual consumption. If you need a license only for one hour, we can easily provision that and bill you exactly for one hour!
